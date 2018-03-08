@@ -1,0 +1,42 @@
+h1 {
+    font-family: georgia;
+    margin:80px;
+    color: brown;
+    font-size: 40px; 
+    }
+form {
+    font-family: verdana;
+    margin: 20px;
+    font-size: 25px;
+    }
+div {  
+    height: 400px;
+    width: 600px;
+    border: 5px solid brown;
+    padding: 35px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-right: 35px;
+    margin-left: 350px;
+    background: lightgray;
+    }
+#mostrar_folha {
+	font-size: 20px;
+	padding: 35px;
+	height: 400px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-right: 35px;
+}
+body{
+    background-image: url("file:///C:/Users/LuizFelipe/Desktop/sisPAG/Imagem/PlanodeFundo.jpg");
+}
+input [type=submit] {
+    background-color: gray;
+    border: solid;
+    color: white;
+    padding: 2px 2px;
+    margin: 4px 2px;
+}
