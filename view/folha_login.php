@@ -1,3 +1,7 @@
+<!--# Sistema: SisPag
+# Descrição: Página de Visualizar Login do Sistema
+# Nome do Programa: folha_login.php
+# Programador(a): Mariana Araujo -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

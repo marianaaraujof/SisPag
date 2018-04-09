@@ -1,3 +1,7 @@
+<!--# Sistema: SisPag
+# Descrição: Página de Visualizar Folha de Pagamento do Sistema
+# Nome do Programa: folhapagamento.php
+# Programador(a): Mariana Araujo -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <?php

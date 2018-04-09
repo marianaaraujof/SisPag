@@ -1,5 +1,9 @@
 <?php 
-	
+# Sistema: SisPag
+# Descrição: Página de Controle de Login do Sistema
+# Nome do Programa: controler_login.php
+# Programador(a): Mariana Araujo
+
 	require_once ('../library/library.php');
 
 	session_name("calcsispag");

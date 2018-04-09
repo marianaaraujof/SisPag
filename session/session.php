@@ -1,4 +1,8 @@
 <?php
+# Sistema: SisPag
+# Descrição: Página de Verificar o Login do Sistema
+# Nome do Programa: session.php
+# Programador(a): Mariana Araujo
 
 	//require_once('../controller/controler_login.php');
 	//require_once('../library/library.php');

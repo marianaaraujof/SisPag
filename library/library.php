@@ -1,4 +1,9 @@
 <?php
+# Sistema: SisPag
+# Descrição: Biblioteca
+# Nome do Programa: library.php
+# Programador(a): Mariana Araujo
+
 function calc_abono ($Ano) {
 		if(date("Y") - $Ano) {
 			$abono = 800;
@@ -39,7 +44,7 @@ function verificar_login ($login,$senha) {
 	if ( $login == 'user01' && $senha == 'senha01') {
 		$_SESSION['logado'] = true;
 		$_SESSION['user'] = $_POST["nome_login"];
-		header('Location: http://localhost/SisPag/view/formulario.php');
+		header('Location: http://localhost/SisPag-vesao1/view/formulario.php');
 	}
 	else {
 		header('Location: ../view/folha_login.php');
